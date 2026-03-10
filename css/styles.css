@@ -52,7 +52,7 @@ body {
 
 /* PROJECTS */
 .project-card {
-    background: white;
+    background: rgb(233, 124, 124);
     padding: 20px;
     margin: 20px auto;
     max-width: 600px;
@@ -62,7 +62,7 @@ body {
 
 /* EDUCATION */
 .edu-card {
-    background: white;
+    background: rgb(235, 126, 126);
     padding: 20px;
     max-width: 500px;
     margin: auto;
