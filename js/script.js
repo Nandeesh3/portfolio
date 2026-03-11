@@ -124,7 +124,7 @@ document.head.appendChild(style);
 // ================= SCROLL ANIMATION FOR ELEMENTS =================
 const observerOptions = {
     threshold: 0.1,
-    rootMargin: '0px 0px -50px 0px'
+    rootMargin: '10px 15px -50px 12px'
 };
 
 const observer = new IntersectionObserver((entries) => {
